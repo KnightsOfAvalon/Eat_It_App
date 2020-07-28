@@ -1,5 +1,7 @@
 # Eat_It_App README
 
+This is a sister app for the [Eat_It_Server](https://github.com/KnightsOfAvalon/Eat_It_Server).
+
 Please note that this app no longer has a google-services.json file in the "app" folder. Also, the Firebase project that I connected this app to in order to test functionality no longer exists. If you are interested in trying this app out for yourself, you will have to create your own Firebase project to connect to. For your convenience, I have included some sample .json data below that you can use to initially populate your Firebase database. Simply copy and paste the data into a .json file and upload that .json file to your Firebase database.
 
 ## Sample .json Data
